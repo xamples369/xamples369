@@ -23,7 +23,7 @@ mental-health tracking. Four quiet screens, a small JSON archive on the device, 
 no notifications, no streaks. Designed for reflection, not engagement.
 
 **[Lantern Walk](https://github.com/xamples369/lantern-walk)** — an interactive world in Godot where physics
-can be experienced instead of read. A calm forest clearing with a day/night cycle as the main menu;
+can be experienced instead of read. A calm forest clearing with a day/night cycle as the main menu; real-time star sky, 
 paths lead to hands-on visualizations of magnetism, electricity, waves. The measure of done:
 *would someone who never liked physics stop and stay?*
 
