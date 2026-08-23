@@ -18,7 +18,7 @@ and five years of watching what a factory actually needs. Currently deployed in 
 
 **[Return to Novus](https://returntonovus.com)** — a full control plane for an RF Online private server: a public web GameCP and a native Windows launcher, both built from one Flutter source tree. Two clients · one backend · one auth model — FastAPI split between a VPS and a bridge running on the game server itself, talking to SQL Server through tunnels. Years ago, an RF Online server was where I first discovered the joy of digging through code. I walked away because it led nowhere. This is the walk back — built properly this time.
 
-**[Psychodiary](https://github.com/xamples369/psychodiary)** — a mobile-first journal for personal
+**[psychodiary](https://github.com/xamples369/psychodiary)** — a mobile-first journal for personal
 mental-health tracking. Four quiet screens, a small JSON archive on the device, no cloud,
 no notifications, no streaks. Designed for reflection, not engagement.
 
