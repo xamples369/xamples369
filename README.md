@@ -2,10 +2,6 @@
 > *One realizes that the mind is just a filter.
 > And that when the filter falls... suddenly nothing is there, but everything is.*
 
-I'm a process technologist in an injection molding plant in Slovakia.
-In my free time, I build things I wish existed.
-
-
 ---
 
 ### What I'm currently building
