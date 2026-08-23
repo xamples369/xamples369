@@ -5,7 +5,6 @@
 I'm a process technologist in an injection molding plant in Slovakia.
 In my free time, I build things I wish existed.
 
-All of it is solo work — designed, built, and maintained by one person.
 
 ---
 
