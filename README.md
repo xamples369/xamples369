@@ -8,7 +8,7 @@ In my free time, I build things I wish existed.
 
 ---
 
-### What I'm building
+### What I'm currently building
 
 **[MedianMolding](https://medianmolding.com)** — a shop-floor system for injection molding plants.
 Machines, molds, process parameters, maintenance, audits — everything that used to live in
