@@ -20,7 +20,7 @@ no notifications, no streaks. Designed for reflection, not engagement.
 **[Lantern Walk](https://github.com/xamples369/lantern-walk)** — an interactive world in Godot where physics
 can be experienced instead of read. A calm forest clearing with a day/night cycle as the main menu; real-time star sky, 
 paths lead to hands-on visualizations of magnetism, electricity, waves. The measure of done:
-*would someone who never liked physics stop and stay?*
+*would someone who never liked or understood physics stop and stay?*
 
 **[Lantern Walk Wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** — the clearing,
 living on your desktop. A pixel-art forest for Wallpaper Engine with a day/night cycle driven by
