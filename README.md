@@ -1,7 +1,4 @@
 
-> *One realizes that the mind is just a filter.
-> And that when the filter falls... suddenly nothing is there, but everything is.*
-
 ---
 
 ### What I'm currently building
