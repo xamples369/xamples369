@@ -8,7 +8,7 @@
 **[MedianMolding](https://medianmolding.com)** — a shop-floor system for injection molding plants.
 Machines, molds, process parameters, maintenance, audits — everything that used to live in
 paper binders and scattered Excel files, in one place. Born from three digitalized checklists
-and five years of watching what a factory actually needs. Currently deployed in production.
+and five years of watching what a factory actually needs. Currently deploying in production.
 
 **[psychodiary](https://github.com/xamples369/psychodiary)** — a mobile-first journal for personal
 mental-health tracking. Four quiet screens, a small JSON archive on the device, no cloud,
