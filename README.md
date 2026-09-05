@@ -24,7 +24,7 @@ living on your desktop. A pixel-art forest for Wallpaper Engine with a day/night
 your system clock, weather, fireflies you can scatter with your mouse, and glowing plants you can
 grow. A quiet place on a machine built for noise.
 
-**[Lantern Walk Wallpaper Android]
+**[Lantern Walk Wallpaper Android]**
 optimized for mobile devices, as a part of psychodiary app and standalone apk in google play store for 1-2€
 
 ---
