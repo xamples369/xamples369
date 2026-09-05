@@ -25,7 +25,7 @@ your system clock, weather, fireflies you can scatter with your mouse, and glowi
 grow. A quiet place on a machine built for noise.
 
 **[Lantern Walk Wallpaper Android](https://github.com/xamples369/lantern_walk_wallpaper)**
-optimized for mobile devices, as a part of psychodiary app and standalone apk in google play store for 1-2€
+optimized for mobile devices, as a part of psychodiary app and standalone apk in google play store
 
 ---
 
