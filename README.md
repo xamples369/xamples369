@@ -19,13 +19,12 @@ can be experienced instead of read. A calm forest clearing with a day/night cycl
 paths lead to hands-on visualizations of magnetism, electricity, waves. The measure of done:
 *would someone who never liked or understood physics stop and stay?*
 
-**[Lantern Walk Wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** — the clearing,
-living on your desktop. A pixel-art forest for Wallpaper Engine with a day/night cycle driven by
-your system clock, weather, fireflies you can scatter with your mouse, and glowing plants you can
-grow. A quiet place on a machine built for noise.
+**[Lantern Walk Wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** — Pixel-art les s cyklom dňa a noci 
+podľa skutočného času, ročnými obdobiami a počasím podľa skutočnej polohy. Po scéne chodí pocestný s lampášom (rúbe drevo, 
+číta, rybári, chodí do chatky), majú ho sprevádzať psík, srnky, zajace, ježko, vtáky, netopiere, sova, mravce a mnoho iných;
+v noci svietia svetlušky, ohnisko a magické huby a rastliny, občas prejde búrka alebo sa objaví vlkodlak. 
+Beží ako živá tapeta Androidu s vlastným interaktívnym panelom nastavení.
 
-**[Lantern Walk Wallpaper Android](https://github.com/xamples369/lantern_walk_wallpaper)**
-optimized for mobile devices, as a part of psychodiary app and standalone apk in google play store
 
 ---
 
