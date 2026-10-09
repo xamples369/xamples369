@@ -19,9 +19,7 @@ can be experienced instead of read. A calm forest clearing with a day/night cycl
 paths lead to hands-on visualizations of magnetism, electricity, waves. The measure of done:
 *would someone who never liked or understood physics stop and stay?*
 
-**[Lantern Walk Wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** — A pixel-art forest live wallpaper 
-synced to your real-time clock, local weather, and season! Watch a lantern-bearing traveler chops wood, reads, and fishes
-alongside forest animals. Features glowing night flora, fireflies, rare werewolf events, and a full interactive settings panel.
+**[Lantern Walk Wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** — Lantern Walk isn’t an animation that plays on a loop. It is a small world that runs alongside your day: the mist rises in the morning, the campfire is lit in the evening, and fireflies take flight at night; when it rains where you are, it rains here too. Things within it slowly grow, accumulate, and remain—plants sprout and grow throughout the week, the woodpile dwindles and is replenished, and the items you find are stored in your Collection. Nothing here is in a rush.
 
 ---
 
