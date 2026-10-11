@@ -10,7 +10,7 @@ and five years of watching what a factory actually needs. Currently deploying in
 
 **[Lantern Walk - live wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** (Kotlin, libGDX) — Lantern Walk isn’t an animation that plays on a loop. It is a small world that runs alongside your day: the mist rises in the morning, the campfire is lit in the evening, and fireflies take flight at night; when it rains where you are, it rains here too. Things within it slowly grow, accumulate, and remain—plants sprout and grow throughout the week, the woodpile dwindles and is replenished, and the items you find are stored in your Collection. Nothing here is in a rush.
 
-**[psychodiary](https://github.com/xamples369/psychodiary)** (Flutter) — a mobile-first journal for personal
+**[psychodiary](https://play.google.com/store/apps/details?id=sk.xamples369.psychodiary&hl=en)** (Flutter) — a mobile-first journal for personal
 mental-health tracking. Four quiet screens, a small JSON archive on the device, no cloud,
 no notifications, no streaks. Designed for reflection, not engagement.
 
