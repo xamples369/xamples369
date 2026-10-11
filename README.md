@@ -3,7 +3,7 @@
 
 ### What I'm currently building
 
-**[MedianMolding](https://medianmolding.com)** (Flutter, Python) — a shop-floor system for injection molding plants.
+**[MedianMolding](https://medianmolding.com)** (Flutter, Python/FastAPI) — a shop-floor system for injection molding plants.
 Machines, molds, process parameters, maintenance, audits — everything that used to live in
 paper binders and scattered Excel files, in one place. Born from three digitalized checklists
 and five years of watching what a factory actually needs. Currently deploying in production.
