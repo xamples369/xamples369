@@ -1,7 +1,7 @@
 
 ---
 
-### What I'm currently building
+### Active projects
 
 **[MedianMolding](https://medianmolding.com)** (Flutter, Python/FastAPI) — a shop-floor system for injection molding plants.
 Machines, molds, process parameters, maintenance, audits — everything that used to live in
