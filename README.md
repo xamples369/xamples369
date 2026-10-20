@@ -3,10 +3,12 @@
 
 ### Active projects
 
-**[MedianMolding](https://medianmolding.com)** (Flutter, Python/FastAPI) — a shop-floor system for injection molding plants.
-Machines, molds, process parameters, maintenance, audits — everything that used to live in
-paper binders and scattered Excel files, in one place. Born from three digitalized checklists
-and five years of watching what a factory actually needs. Currently deploying in production.
+**[MedianMolding](https://medianmolding.com)** (Flutter, Python/FastAPI) — is a shop-floor system for injection molding plants. It brings
+machines, molds, process parameters, maintenance, audits and OEE into one place, together with
+everything that used to live in paper binders and scattered Excel files. It also detects process
+parameter drift and warns before scrap is produced. It grew out of three digitalized checklists and five
+years of watching what a factory actually needs. No training required: each role gets a single A4 page
+that explains everything. Currently being deployed to production.
 
 **[Lantern Walk - live wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** (Kotlin, libGDX) — Lantern Walk isn’t an animation that plays on a loop. It is a small world that runs alongside your day: the mist rises in the morning, the campfire is lit in the evening, and fireflies take flight at night; when it rains where you are, it rains here too. Things within it slowly grow, accumulate, and remain—plants sprout and grow throughout the week, the woodpile dwindles and is replenished, and the items you find are stored in your Collection. Nothing here is in a rush.
 
