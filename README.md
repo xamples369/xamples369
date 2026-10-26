@@ -10,7 +10,7 @@ parameter drift and warns before scrap is produced. It grew out of three digital
 years of watching what a factory actually needs. No training required: each role gets a single A4 page
 that explains everything. Currently being deployed to production.
 
-**[Lantern Walk - live wallpaper](https://github.com/xamples369/lantern_walk_wallpaper)** (Kotlin, libGDX) — Lantern Walk isn’t an animation that plays on a loop. It is a small world that runs alongside your day: the mist rises in the morning, the campfire is lit in the evening, and fireflies take flight at night; when it rains where you are, it rains here too. Things within it slowly grow, accumulate, and remain—plants sprout and grow throughout the week, the woodpile dwindles and is replenished, and the items you find are stored in your Collection. Nothing here is in a rush.
+**[Lantern Walk - live wallpaper](https://play.google.com/store/apps/details?id=sk.lubos.lanternwalk)** (Kotlin, libGDX) — Lantern Walk isn’t an animation that plays on a loop. It is a small world that runs alongside your day: the mist rises in the morning, the campfire is lit in the evening, and fireflies take flight at night; when it rains where you are, it rains here too. Things within it slowly grow, accumulate, and remain—plants sprout and grow throughout the week, the woodpile dwindles and is replenished, and the items you find are stored in your Collection. Nothing here is in a rush.
 
 **[psychodiary](https://play.google.com/store/apps/details?id=sk.xamples369.psychodiary&hl=en)** (Flutter) — a mobile-first journal for personal
 mental-health tracking. Four quiet screens, a small JSON archive on the device, no cloud,
