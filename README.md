@@ -23,4 +23,4 @@ paths lead to hands-on visualizations of magnetism, electricity, waves. The meas
 They share one sky — in the night above the clearing, a constellation traces Psychodiary's mark.
 Understanding the world and understanding yourself are the same walk.*
 
-🎧 [Resonating](https://soundcloud.com/xamples/sets/resonating) · 🌐 [medianmolding.com](https://medianmolding.com)
+🎧 [Resonating](https://soundcloud.com/xamples/sets/resonating) 
